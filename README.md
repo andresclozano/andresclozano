@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Lozano</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 💬 Ask me about **Java, Angular, Node Js**
+- 💬 Ask me about **Java Spring Boot, Angular, Node Js, Typescript, Ionic, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
